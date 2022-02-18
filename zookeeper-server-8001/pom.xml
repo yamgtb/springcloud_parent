@@ -69,16 +69,16 @@
         </dependency>
 
         <!-- 引入 Swagger 依赖 -->
-        <dependency>
+        <!--<dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger2</artifactId>
-        </dependency>
+        </dependency>-->
 
         <!-- 引入 Swagger UI 依赖，以实现 API 接口的 UI 界面 -->
-        <dependency>
+        <!--<dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
-        </dependency>
+        </dependency>-->
 
         <!-- 1. swagger-bootstrap-ui 目前改名为 knife4j -->
         <!-- 2. 实现 swagger-bootstrap-ui 的自动化配置  -->
