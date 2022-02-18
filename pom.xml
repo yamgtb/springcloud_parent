@@ -10,6 +10,11 @@
 
     <description>spring-cloud项目父工程</description>
 
+    <modules>
+        <module>springcloud-common</module>
+        <module>zookeeper-server-8001</module>
+    </modules>
+
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
